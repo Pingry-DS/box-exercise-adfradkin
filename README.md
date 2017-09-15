@@ -5,21 +5,13 @@ A simple data structure primarily for instructional purposes.
 
 Usage
 -----
-
+Simple example of a data structure that hold one of type T
 Authors
 -------
-
+Josh Orndorff
+Alex Fradkin
 License
 -------
 
 Tests
 -----
-
-Todo List
----------
-1. Implement all the methods
-2. Update all the javadoc
-3. Implement TODOs in main program
-4. Complete preceding sections of this README
-5. Remove this todo list
-6. (optional) Make an even more interesting main program
